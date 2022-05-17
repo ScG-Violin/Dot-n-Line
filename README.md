@@ -1,2 +1,2 @@
 # Dot-n-Line
-It's first simple project wiht SFML.
+It's my first simple project wiht SFML.
